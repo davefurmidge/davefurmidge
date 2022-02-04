@@ -10,7 +10,7 @@ Hi, I am Dave Furmidge a Senior Systems Engineer with EPAM. I live in Manchester
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/davefurmidge/devopswithdave/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/davefurmidge/davefurmidge/main/assets/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/dave-furmidge-17376525/
 <!--
