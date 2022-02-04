@@ -13,9 +13,7 @@ Hi, I am Dave Furmidge, a Senior Systems Engineer with EPAM. I live in Mancheste
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/davefurmidge/davefurmidge/main/assets/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/dave-furmidge-17376525/
-
-
-
+<br/><br/>
 :zap: GitHub Stats
 
 <img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davefurmidge&show_icons=true&hide_border=true&count_private=true" />
